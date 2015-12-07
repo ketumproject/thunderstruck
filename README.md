@@ -1,2 +1,2 @@
 # thunderstruck
-Password manager for citizens of a torturer state.
+Password manager for the citizens of a torturer state.
